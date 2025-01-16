@@ -1,0 +1,244 @@
+### Explanation of Skewness:
+-Skewness is a measure of the asymmetry of the distribution of values in a dataset.
+-A positive skew indicates that the tail on the right side of the distribution is longer or fatter than the left side, meaning there are a number of unusually high values.
+-A negative skew indicates that the tail on the left side is longer or fatter than the right side, meaning there are a number of unusually low values.
+-A skewness close to zero suggests that the distribution is symmetric.
+
+### Interpretations of Skewness:
+-Highly negatively skewed: Skewness < -1
+-Moderately negatively skewed: -1 < Skewness < -0.5
+-Approximately symmetric: -0.5 < Skewness < 0.5
+-Moderately positively skewed: 0.5 < Skewness < 1
+-Highly positively skewed: Skewness > 1
+
+Statistics for Cash and Investments:
+Mean: 4182.72
+Median: 2529.50
+Mode: 11981.25
+Standard Deviation: 3713.41
+Variance: 13789435.41
+Range: 11981.25, 80.0
+Interquartile Range: 5547.0, 1257.5
+Skewness: 1.18
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for Total Assets:
+Mean: 4266.08
+Median: 2677.00
+Mode: 12142.12
+Standard Deviation: 3776.98
+Variance: 14265547.62
+Range: 12142.125, 80.0
+Interquartile Range: 5639.25, 1304.0
+Skewness: 1.18
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for Administrative Liabilities:
+Mean: 53.67
+Median: 2.00
+Mode: 0.00
+Standard Deviation: 83.69
+Variance: 7003.73
+Range: 200.625, 0.0
+Interquartile Range: 80.25, 0.0
+Skewness: 1.12
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for FDIC Subrogated Deposit Claim:
+Mean: 138345.18
+Median: 74733.00
+Mode: 433785.50
+Standard Deviation: 144329.68
+Variance: 20831055756.57
+Range: 433785.5, 0.0
+Interquartile Range: 195036.5, 35870.5
+Skewness: 1.17
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for Other Claimant Liabilities:
+Mean: 4252.79
+Median: 908.50
+Mode: 15887.25
+Standard Deviation: 5993.10
+Variance: 35917198.91
+Range: 15887.25, 0.0
+Interquartile Range: 6569.25, 357.25
+Skewness: 1.24
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for Net Worth (Deficit):
+Mean: -158745.25
+Median: -79288.00
+Mode: -517456.25
+Standard Deviation: 174950.00
+Variance: 30607503968.47
+Range: 94983.0, -517456.25
+Interquartile Range: -38616.25, -230152.25
+Skewness: -1.21
+Skewness Interpretation: Highly negatively skewed.
+
+Statistics for Total Liabilities and Net Worth:
+Mean: 4266.08
+Median: 2677.00
+Mode: 12142.12
+Standard Deviation: 3776.98
+Variance: 14265547.62
+Range: 12142.125, 80.0
+Interquartile Range: 5639.25, 1304.0
+Skewness: 1.18
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for FDIC Subrogated Claim:
+Mean: 972663.96
+Median: 405301.00
+Mode: 3343117.00
+Standard Deviation: 1142078.84
+Variance: 1304344082809.21
+Range: 3343117, 5418
+Interquartile Range: 1435690.0, 164072.0
+Skewness: 1.22
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for FDIC Subrogated Claim %:
+Mean: 100.00
+Median: 100.00
+Mode: 100.00
+Standard Deviation: 0.00
+Variance: 0.00
+Range: 100, 100
+Interquartile Range: 100.0, 100.0
+Skewness: 0.00
+Skewness Interpretation: Approximately symmetric.
+
+Statistics for Subtotal - Proven Deposit Claims:
+Mean: 974208.12
+Median: 405301.00
+Mode: 3352742.62
+Standard Deviation: 1144266.77
+Variance: 1309346434904.30
+Range: 3352742.625, 5814.0
+Interquartile Range: 1439540.25, 164072.0
+Skewness: 1.22
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for Subtotal - Proven Deposit Claims %:
+Mean: 100.00
+Median: 100.00
+Mode: 100.00
+Standard Deviation: 0.00
+Variance: 0.00
+Range: 100, 100
+Interquartile Range: 100.0, 100.0
+Skewness: 0.00
+Skewness Interpretation: Approximately symmetric.
+
+Statistics for Dividends Paid to Date:
+Mean: 646835.09
+Median: 297249.00
+Mode: 1942703.12
+Standard Deviation: 719018.86
+Variance: 516988126256.15
+Range: 1942703.125, 0.0
+Interquartile Range: 839717.5, 104393.75
+Skewness: 1.04
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for Dividends Paid to Date %:
+Mean: 72.88
+Median: 72.00
+Mode: 100.00
+Standard Deviation: 16.52
+Variance: 273.01
+Range: 100.0, 28.5
+Interquartile Range: 84.75, 62.25
+Skewness: -0.17
+Skewness Interpretation: Approximately symmetric.
+
+Statistics for Total Unpaid Deposit Claims:
+Mean: 138470.05
+Median: 74733.00
+Mode: 433786.88
+Standard Deviation: 144328.91
+Variance: 20830833917.71
+Range: 433786.875, 0.0
+Interquartile Range: 195037.5, 35871.25
+Skewness: 1.17
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for Total Unpaid Deposit Claims %:
+Mean: 27.12
+Median: 28.00
+Mode: 0.00
+Standard Deviation: 16.52
+Variance: 273.01
+Range: 71.5, 0.0
+Interquartile Range: 37.75, 15.25
+Skewness: 0.17
+Skewness Interpretation: Approximately symmetric.
+
+Statistics for General Creditor:
+Mean: 3722.60
+Median: 1147.50
+Mode: 13747.88
+Standard Deviation: 4943.20
+Variance: 24435265.74
+Range: 13747.875, 14.0
+Interquartile Range: 5748.0, 414.75
+Skewness: 1.28
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for General Creditor %:
+Mean: 100.00
+Median: 100.00
+Mode: 100.00
+Standard Deviation: 0.00
+Variance: 0.00
+Range: 100, 100
+Interquartile Range: 100.0, 100.0
+Skewness: 0.00
+Skewness Interpretation: Approximately symmetric.
+
+Statistics for Subtotal- Other Claimants:
+Mean: 4494.38
+Median: 1147.50
+Mode: 16027.25
+Standard Deviation: 6083.35
+Variance: 37007100.86
+Range: 16027.25, 14.0
+Interquartile Range: 6659.75, 414.75
+Skewness: 1.18
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for Subtotal- Other Claimants %:
+Mean: 100.00
+Median: 100.00
+Mode: 100.00
+Standard Deviation: 0.00
+Variance: 0.00
+Range: 100, 100
+Interquartile Range: 100.0, 100.0
+Skewness: 0.00
+Skewness Interpretation: Approximately symmetric.
+
+Statistics for Total Unpaid Other Claimants:
+Mean: 4252.79
+Median: 908.50
+Mode: 15887.25
+Standard Deviation: 5993.10
+Variance: 35917198.91
+Range: 15887.25, 0.0
+Interquartile Range: 6569.25, 357.25
+Skewness: 1.24
+Skewness Interpretation: Highly positively skewed.
+
+Statistics for Total Unpaid Other Claimants %:
+Mean: 100.00
+Median: 100.00
+Mode: 100.00
+Standard Deviation: 0.00
+Variance: 0.00
+Range: 100, 100
+Interquartile Range: 100.0, 100.0
+Skewness: 0.00
+Skewness Interpretation: Approximately symmetric.
+
